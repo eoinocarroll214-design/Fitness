@@ -1,0 +1,7 @@
+{
+  "name": "Eoin's Rehab & Rebuild",
+  "description": "A personalized 6-week back and knee rehabilitation and physique rebuilding application tailored for Eoin O'Carroll.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
